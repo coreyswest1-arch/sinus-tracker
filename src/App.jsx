@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 
-const BACKEND_URL = 'REPLACE_WITH_CLOUD_RUN_URL'
+const BACKEND_URL = 'https://sinus-backend-305422025606.europe-west2.run.app'
 
 const flareFactors = ['Poor sleep','Mouth breathing','Dry air','Stress','Missed practice','Exercise','Diet','Weather change','Alcohol','Screen time']
 
